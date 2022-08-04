@@ -5,7 +5,8 @@ The AW-PER-A2C is inspired by Crowd-Robot Interaction (https://arxiv.org/abs/180
 
 ## Install library
 1. Install [Python-RVO2](https://github.com/sybrenstuvel/Python-RVO2) library
-2. Package setup (in the file with setup.py) by pip3: pip3 install -e .
+2. Package setup (in the file with setup.py) by pip3: 
+        pip3 install -e .
 
 
 ## Run the test code
