@@ -15,7 +15,8 @@ The AW-PER-A2C is inspired by Crowd-Robot Interaction (https://arxiv.org/abs/180
 1. Visualize a test case with 5 obstacles
     First open the file AW-PER-A2C/ENVS/envs/configs/env.config and ensure "human_num = 5"
     Second open the file test.py and ensure the selected model is "aw-per-a2c-5obs.pkl"
-    Third run the test code: 
+    Third run the test code:
+    
         python3 test.py --policy aw_per_a2c --output_dir ENVS/data/output --phase test --visualize --test_case 0
 
 2. Visualize a test case with 10 obstacles
