@@ -2,9 +2,6 @@
 The test code for the paper "Attention-based advantage actor-critic algorithm with prioritized experience replay for complex 2-D robotic motion planning".
 The AW-PER-A2C is inspired by Crowd-Robot Interaction (https://arxiv.org/abs/1809.08835) and Self Imitation Learning (https://doi.org/10.48550/arXiv.1806.05635).The main part of our code is modified from codes in these two papers.
 
-#####################################################
-#Instruction for running the test code of AW-PER-A2C
-#####################################################
 
 ## Install library
 1. Install [Python-RVO2](https://github.com/sybrenstuvel/Python-RVO2) library
