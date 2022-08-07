@@ -2,7 +2,8 @@
 The test code for the paper "Attention-based advantage actor-critic algorithm with prioritized experience replay for complex 2-D robotic motion planning".
 The AW-PER-A2C is inspired by Crowd-Robot Interaction (https://arxiv.org/abs/1809.08835) and Self Imitation Learning (https://doi.org/10.48550/arXiv.1806.05635). The main part of our code is modified from codes in these two papers.
 
-Abstract
+Abstract:
+
 Robotic motion planning in dense and dynamic indoor scenarios constantly challenges the researchers because of the motion
 unpredictability of obstacles. Recent progress in reinforcement learning enables robots to better cope with the dense and
 unpredictable obstacles by encoding complex features of the robot and obstacles into the encoders like the long-short term
@@ -22,6 +23,7 @@ with ten and five obstacles respectively) when comparing with the baseline LSTM-
 Our source code is freely available at the GitHub (https://github.com/CHUENGMINCHOU/AW-PER-A2C).
 
 How to cite this paper:
+
 Zhou, C., Huang, B., Hassan, H. et al. Attention-based advantage actor-critic algorithm with prioritized experience replay for complex 2-D robotic motion planning. J Intell Manuf (2022). https://doi.org/10.1007/s10845-022-01988-z
 
 
